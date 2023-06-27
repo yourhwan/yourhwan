@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20Yourhwan's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=%20Yourhwan's%20GitHub%20&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <!--
 **yourhwan/yourhwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
